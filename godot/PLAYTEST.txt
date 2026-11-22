@@ -1,0 +1,25 @@
+PARTY PALS: friends playtest build (v0.2)
+==========================================
+
+Thanks for testing! This build has all 50 mini-games. Press F on the title screen to pick any of them.
+
+HOW TO START
+- Windows: unzip, then double-click PartyPals.exe.
+  Windows may say "Windows protected your PC" because the game isn't signed yet.
+  Click "More info" then "Run anyway".
+- Mac: unzip, then RIGHT-click Party Pals.app > Open > Open (first time only).
+- Linux: unzip, then run ./PartyPals.x86_64
+
+CONTROLS (up to 4 players, mix keyboards and controllers)
+  P1  W A S D + Q        P2  I J K L + U
+  P3  Arrow keys + Enter P4  Numpad 8 4 5 6 + Numpad 0
+  Controllers: stick / D-pad to move, A B X Y = action
+- Press your action button on the title screen to join. Empty slots become CPU pals.
+- Space or Start = start a party. F = Free Play (pick any game). F11 = fullscreen. Esc = quit.
+
+PLEASE TELL ME
+1. Did it start OK? Which computer / controller did you use?
+2. Which mini-game was the most fun? Which was the least fun, and why?
+3. Was anything confusing, unfair, too easy or too hard?
+4. Did anything break, freeze or look wrong? (A photo of the screen helps!)
+5. Would you play this with friends again? What would make you want to?
